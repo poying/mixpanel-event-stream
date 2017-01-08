@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "JSONStream": "^1.3.0",
     "moment": "^2.17.1",
     "split": "^1.0.0",
     "superagent": "^3.3.1"
